@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "node-pty": "0.6.2",
-    "ws": "2.2.0",
+    "ws": "3.3.1",
     "xterm": "2.4.0"
   },
   "devDependencies": {
